@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xml:lang="en" xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink">
+	<info>		
+		<title>DocBook</title>
+	</info>
+	<section>
+		<table>
+<title>Anzahl Besucher</title>
+<tgroup cols="4">
+<thead>
+<row>
+<entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Eisbären Berlin</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Düsseldorfer EG</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Iserlohn Roosters</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>EHC Red Bull München</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Adler Mannheim</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Nürnberg Ice Tigers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Grizzlys Wolfsburg</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Straubing Tigers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Augsburger Panther</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Kölner Haie</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>ERC Ingolstadt</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Hamburg Freezers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Schwenninger Wild Wings</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL</entry><entry>Deutschland</entry><entry>Krefeld Pinguine</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Bietigheim Steelers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Fischtown Pinguins</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Kassel Huskies</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Ravensburg Towerstars</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>EC Bad Nauheim</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Löwen Frankfurt</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Starbulls Rosenheim</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Dresdner Eislöwen</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>SC Riessersee</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Eispiraten Crimmitschau</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>ESV Kaufbeuren</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Lausitzer Füchse</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Wölfe Freiburg</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>DEL2</entry><entry>Deutschland</entry><entry>Heilbronner Falken</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Füchse Duisburg</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>EHC Neuwied</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Herner EV</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Moskitos Essen</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Ratinger Ice Aliens</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Hammer Eisbären</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Neusser EV</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_West</entry><entry>Deutschland</entry><entry>Löwen Frankfurt B</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>Icefighters Leipzig</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>Saale Bulls</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>Black Dragons Erfurt</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>Tornado Niesky</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>EHV Schönheide</entry>
+</row>
+<row>
+<entry>2014/2015</entry><entry>Oberliga_Ost</entry><entry>Deutschland</entry><entry>FASS Berlin</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Füchse Duisburg</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Herner EV</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Tilburg Trappers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Saale Bulls</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Hannover Indians</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Icefighters Leipzig</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Hannover Scorpions</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>EHC Neuwied</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Moskitos Essen</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Rostock Piranhas</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Wedemark Scorpions</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>EHC Timmendorfer Strand</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Black Dragons Erfurt</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Harzer Falken</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Hamburger SV</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Preußen Berlin</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>FASS Berlin</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Nord</entry><entry>Deutschland</entry><entry>Crocodiles Hamburg</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EV Regensburg</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EHC Bayreuth Die Tigers</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>Tölzer Löwen</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EC Peiting</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EV Landshut</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>Deggendorfer SC</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>Selber Wölfe</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>Blue Devils Weiden</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>ERC Bulls Sonthofen</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EHC Klostersee</entry>
+</row>
+<row>
+<entry>2015/2016</entry><entry>Oberliga_Süd</entry><entry>Deutschland</entry><entry>EHV Schönheide</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+		<example xml:id="example.java.HelloDocBook">
+			<title>Java Program</title>
+			<programlisting language="java"><xi:include parse="text" href="includes/HelloDocBook.java"><xi:fallback><para>XINCLUDE-ERROR</para></xi:fallback></xi:include></programlisting>
+		</example>
+	</section>
+</article>

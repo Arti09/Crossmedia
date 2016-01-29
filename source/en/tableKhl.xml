@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xml:lang="en" xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink">
+<info>
+<title>DocBook</title>
+</info>
+<section>
+<table>
+<title>Teams Table Per League</title>
+Pushed Value 13
+Pushed Value 13
+Pushed Value 6
+Pushed Value 6
+Pushed Value 6
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Western Conference</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>ZSKA Moskau</entry><entry>35</entry><entry>11</entry><entry>151:75</entry><entry>118</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Jokerit</entry><entry>29</entry><entry>15</entry><entry>118</entry><entry>101</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Yaroslavl</entry><entry>33</entry><entry>14</entry><entry>149:123</entry><entry>113</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Nizhny Novgorod</entry><entry>21</entry><entry>14</entry><entry>101</entry><entry>92</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Sochi</entry><entry>25</entry><entry>16</entry><entry>136:81</entry><entry>91</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>St. Petersburg</entry><entry>24</entry><entry>18</entry><entry>113</entry><entry>90</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Dyn. Moscow</entry><entry>22</entry><entry>16</entry><entry>146:119</entry><entry>90</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Slovan Bratislava</entry><entry>19</entry><entry>21</entry><entry>92</entry><entry>79</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Din. Minsk</entry><entry>20</entry><entry>22</entry><entry>144:135</entry><entry>74</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Medvescak Zagreb</entry><entry>18</entry><entry>22</entry><entry>91</entry><entry>74</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Spartak Moskau</entry><entry>18</entry><entry>25</entry><entry>156:135</entry><entry>70</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Dinamo Riga</entry><entry>14</entry><entry>24</entry><entry>90</entry><entry>65</entry>
+</row>
+<row>
+<entry>13</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Podolsk</entry><entry>14</entry><entry>31</entry><entry>147:117</entry><entry>60</entry>
+</row>
+<row>
+<entry>14</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Cherepovets</entry><entry>12</entry><entry>29</entry><entry>90</entry><entry>56</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Eastern Conference</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 14
+maxCounter = 28
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Omsk</entry><entry>26</entry><entry>13</entry><entry>137:128</entry><entry>100</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Magnitogorsk</entry><entry>23</entry><entry>18</entry><entry>79</entry><entry>93</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Novosibirsk</entry><entry>21</entry><entry>14</entry><entry>129:147</entry><entry>93</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Ufa</entry><entry>25</entry><entry>21</entry><entry>74</entry><entry>88</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Vladivostok</entry><entry>24</entry><entry>20</entry><entry>127:143</entry><entry>88</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Bars Kasan</entry><entry>21</entry><entry>18</entry><entry>74</entry><entry>84</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Barys Astana</entry><entry>20</entry><entry>22</entry><entry>125:155</entry><entry>80</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Ekaterinburg</entry><entry>19</entry><entry>19</entry><entry>70</entry><entry>79</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Niznekamsk</entry><entry>19</entry><entry>19</entry><entry>116:131</entry><entry>78</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Traktor Chelyabinsk</entry><entry>13</entry><entry>22</entry><entry>65</entry><entry>70</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Lada</entry><entry>17</entry><entry>26</entry><entry>113:155</entry><entry>66</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Yugra</entry><entry>17</entry><entry>29</entry><entry>60</entry><entry>65</entry>
+</row>
+<row>
+<entry>13</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Khabarovsk</entry><entry>16</entry><entry>27</entry><entry>112:143</entry><entry>65</entry>
+</row>
+<row>
+<entry>14</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Novokuznetsk</entry><entry>10</entry><entry>29</entry><entry>56</entry><entry>46</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Bobrov Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 14
+maxCounter = 28
+maxCounter = 35
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Jokerit</entry><entry>29</entry><entry>15</entry><entry>145:108</entry><entry>101</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>St. Petersburg</entry><entry>24</entry><entry>18</entry><entry>100</entry><entry>90</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Slovan Bratislava</entry><entry>19</entry><entry>21</entry><entry>167:126</entry><entry>79</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Din. Minsk</entry><entry>20</entry><entry>22</entry><entry>93</entry><entry>74</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Medvescak Zagreb</entry><entry>18</entry><entry>22</entry><entry>138:125</entry><entry>74</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Spartak Moskau</entry><entry>18</entry><entry>25</entry><entry>93</entry><entry>70</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Dinamo Riga</entry><entry>14</entry><entry>24</entry><entry>162:144</entry><entry>65</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Tarasov Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 14
+maxCounter = 28
+maxCounter = 35
+maxCounter = 42
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>ZSKA Moskau</entry><entry>35</entry><entry>11</entry><entry>88</entry><entry>118</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Yaroslavl</entry><entry>33</entry><entry>14</entry><entry>141:144</entry><entry>113</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Nizhny Novgorod</entry><entry>21</entry><entry>14</entry><entry>88</entry><entry>92</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Sochi</entry><entry>25</entry><entry>16</entry><entry>128:115</entry><entry>91</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Dyn. Moscow</entry><entry>22</entry><entry>16</entry><entry>84</entry><entry>90</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Podolsk</entry><entry>14</entry><entry>31</entry><entry>153:164</entry><entry>60</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Cherepovets</entry><entry>12</entry><entry>29</entry><entry>80</entry><entry>56</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Kharlamov Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 14
+maxCounter = 28
+maxCounter = 35
+maxCounter = 42
+maxCounter = 49
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Magnitogorsk</entry><entry>23</entry><entry>18</entry><entry>127:147</entry><entry>93</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Bars Kasan</entry><entry>21</entry><entry>18</entry><entry>79</entry><entry>84</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Ekaterinburg</entry><entry>19</entry><entry>19</entry><entry>113:117</entry><entry>79</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Niznekamsk</entry><entry>19</entry><entry>19</entry><entry>78</entry><entry>78</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Traktor Chelyabinsk</entry><entry>13</entry><entry>22</entry><entry>109:135</entry><entry>70</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Lada</entry><entry>17</entry><entry>26</entry><entry>70</entry><entry>66</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Yugra</entry><entry>17</entry><entry>29</entry><entry>108:133</entry><entry>65</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga KHL Chernyshev Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 14
+maxCounter = 28
+maxCounter = 35
+maxCounter = 42
+maxCounter = 49
+maxCounter = 56
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Omsk</entry><entry>26</entry><entry>13</entry><entry>66</entry><entry>100</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Novosibirsk</entry><entry>21</entry><entry>14</entry><entry>107:157</entry><entry>93</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Ufa</entry><entry>25</entry><entry>21</entry><entry>65</entry><entry>88</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Vladivostok</entry><entry>24</entry><entry>20</entry><entry>100:121</entry><entry>88</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Barys Astana</entry><entry>20</entry><entry>22</entry><entry>65</entry><entry>80</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Khabarovsk</entry><entry>16</entry><entry>27</entry><entry>113:176</entry><entry>65</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>KHL</entry><entry>Russland</entry><entry>Novokuznetsk</entry><entry>10</entry><entry>29</entry><entry>46</entry><entry>46</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga VHL Team</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Tver</entry><entry>27</entry><entry>9</entry><entry>107:56</entry><entry>88</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Ryazan</entry><entry>25</entry><entry>9</entry><entry>88</entry><entry>87</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Voronezh</entry><entry>25</entry><entry>13</entry><entry>116:76</entry><entry>83</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Toros Neftekamsk</entry><entry>23</entry><entry>9</entry><entry>87</entry><entry>81</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Angarsk</entry><entry>22</entry><entry>12</entry><entry>129:100</entry><entry>79</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Almetyevsk</entry><entry>22</entry><entry>12</entry><entry>83</entry><entry>79</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>SKA Neva St. Petersburg</entry><entry>21</entry><entry>11</entry><entry>125:86</entry><entry>76</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Izhevsk</entry><entry>18</entry><entry>12</entry><entry>81</entry><entry>74</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Kazzinc-Torpedo</entry><entry>20</entry><entry>13</entry><entry>125:90</entry><entry>73</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Sarov</entry><entry>20</entry><entry>15</entry><entry>79</entry><entry>73</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Karaganda</entry><entry>19</entry><entry>13</entry><entry>115:96</entry><entry>72</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Kurhan</entry><entry>18</entry><entry>14</entry><entry>79</entry><entry>69</entry>
+</row>
+<row>
+<entry>13</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Balashikha</entry><entry>16</entry><entry>13</entry><entry>108:77</entry><entry>65</entry>
+</row>
+<row>
+<entry>14</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Perm</entry><entry>19</entry><entry>18</entry><entry>76</entry><entry>64</entry>
+</row>
+<row>
+<entry>15</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Nizhny Tagil</entry><entry>14</entry><entry>16</entry><entry>114:92</entry><entry>63</entry>
+</row>
+<row>
+<entry>16</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Orsk</entry><entry>14</entry><entry>17</entry><entry>74</entry><entry>61</entry>
+</row>
+<row>
+<entry>17</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Mechel Chelyabinsk</entry><entry>15</entry><entry>16</entry><entry>108:82</entry><entry>61</entry>
+</row>
+<row>
+<entry>18</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Krasnoyarsk</entry><entry>15</entry><entry>16</entry><entry>73</entry><entry>58</entry>
+</row>
+<row>
+<entry>19</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Zvezda Chekhov</entry><entry>13</entry><entry>24</entry><entry>102:95</entry><entry>50</entry>
+</row>
+<row>
+<entry>20</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Tyumen</entry><entry>13</entry><entry>22</entry><entry>73</entry><entry>50</entry>
+</row>
+<row>
+<entry>21</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Bars</entry><entry>10</entry><entry>24</entry><entry>110:84</entry><entry>43</entry>
+</row>
+<row>
+<entry>22</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Penza</entry><entry>9</entry><entry>20</entry><entry>72</entry><entry>42</entry>
+</row>
+<row>
+<entry>23</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Volzhsk</entry><entry>10</entry><entry>24</entry><entry>100:84</entry><entry>41</entry>
+</row>
+<row>
+<entry>24</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Khimik</entry><entry>8</entry><entry>25</entry><entry>69</entry><entry>39</entry>
+</row>
+<row>
+<entry>25</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Saratov</entry><entry>7</entry><entry>29</entry><entry>103:99</entry><entry>29</entry>
+</row>
+<row>
+<entry>26</entry><entry>2015/2016</entry><entry>VHL</entry><entry>Russland</entry><entry>Zvezda-VDV Dmitrov</entry><entry>2</entry><entry>19</entry><entry>65</entry><entry>11</entry>
+</row>
+</tbody>
+</tgroup>
+Pushed Value 14
+Pushed Value 15
+Pushed Value 6
+Pushed Value 7
+Pushed Value 7
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Western Conference</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Loko</entry><entry>24</entry><entry>5</entry><entry>125:54</entry><entry>80</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Russland U18</entry><entry>22</entry><entry>8</entry><entry>80</entry><entry>71</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Dinamo St. Petersburg</entry><entry>20</entry><entry>10</entry><entry>127:76</entry><entry>68</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>MHC Spartak</entry><entry>15</entry><entry>9</entry><entry>71</entry><entry>60</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Almaz</entry><entry>18</entry><entry>10</entry><entry>92:58</entry><entry>64</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>SKA-1946</entry><entry>18</entry><entry>12</entry><entry>68</entry><entry>63</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Serebryanye Lvi</entry><entry>16</entry><entry>14</entry><entry>105:83</entry><entry>58</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Amurskie Tigry</entry><entry>12</entry><entry>13</entry><entry>60</entry><entry>49</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Krasnaya Armiya</entry><entry>12</entry><entry>12</entry><entry>104:68</entry><entry>49</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>HC MVD</entry><entry>12</entry><entry>10</entry><entry>64</entry><entry>48</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>HC Riga</entry><entry>12</entry><entry>18</entry><entry>102:86</entry><entry>43</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Russkie Vityazi</entry><entry>9</entry><entry>15</entry><entry>63</entry><entry>38</entry>
+</row>
+<row>
+<entry>13</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sakhalinskie Akuly</entry><entry>7</entry><entry>17</entry><entry>112:98</entry><entry>34</entry>
+</row>
+<row>
+<entry>14</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Atlanty</entry><entry>11</entry><entry>21</entry><entry>58</entry><entry>36</entry>
+</row>
+<row>
+<entry>15</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Dinamo-Raubichi</entry><entry>0</entry><entry>34</entry><entry>101:97</entry><entry>1</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Eastern Conference</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 15
+maxCounter = 31
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Omskie Yastreby</entry><entry>21</entry><entry>6</entry><entry>49</entry><entry>78</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Tolpar</entry><entry>20</entry><entry>9</entry><entry>87:85</entry><entry>70</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Stalnye Lisy</entry><entry>20</entry><entry>11</entry><entry>49</entry><entry>68</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Chaika</entry><entry>19</entry><entry>11</entry><entry>95:87</entry><entry>67</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Reaktor</entry><entry>18</entry><entry>12</entry><entry>48</entry><entry>64</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Snezhnye Barsy</entry><entry>18</entry><entry>12</entry><entry>95:99</entry><entry>61</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Irbis</entry><entry>17</entry><entry>13</entry><entry>43</entry><entry>60</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Kuznetskie Medvedi</entry><entry>15</entry><entry>11</entry><entry>85:102</entry><entry>56</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sibirskie Snaipery</entry><entry>14</entry><entry>11</entry><entry>38</entry><entry>58</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Mamonty Yugry</entry><entry>13</entry><entry>14</entry><entry>69:101</entry><entry>55</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sarmaty</entry><entry>15</entry><entry>14</entry><entry>34</entry><entry>54</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Avto</entry><entry>13</entry><entry>15</entry><entry>87:100</entry><entry>51</entry>
+</row>
+<row>
+<entry>13</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Belye Medvedi</entry><entry>12</entry><entry>16</entry><entry>36</entry><entry>44</entry>
+</row>
+<row>
+<entry>14</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Ladya</entry><entry>9</entry><entry>20</entry><entry>46:238</entry><entry>38</entry>
+</row>
+<row>
+<entry>15</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Olympia</entry><entry>4</entry><entry>27</entry><entry>1</entry><entry>19</entry>
+</row>
+<row>
+<entry>16</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Tyumensky Legion</entry><entry>4</entry><entry>30</entry><entry>114:74</entry><entry>15</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Central Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 15
+maxCounter = 31
+maxCounter = 38
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Russland U18</entry><entry>22</entry><entry>8</entry><entry>78</entry><entry>71</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>MHC Spartak</entry><entry>15</entry><entry>9</entry><entry>115:86</entry><entry>60</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Amurskie Tigry</entry><entry>12</entry><entry>13</entry><entry>70</entry><entry>49</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Krasnaya Armiya</entry><entry>12</entry><entry>12</entry><entry>126:90</entry><entry>49</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>HC MVD</entry><entry>12</entry><entry>10</entry><entry>68</entry><entry>48</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Russkie Vityazi</entry><entry>9</entry><entry>15</entry><entry>106:77</entry><entry>38</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sakhalinskie Akuly</entry><entry>7</entry><entry>17</entry><entry>67</entry><entry>34</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Northwest Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 15
+maxCounter = 31
+maxCounter = 38
+maxCounter = 46
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Loko</entry><entry>24</entry><entry>5</entry><entry>114:95</entry><entry>80</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Dinamo St. Petersburg</entry><entry>20</entry><entry>10</entry><entry>64</entry><entry>68</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Almaz</entry><entry>18</entry><entry>10</entry><entry>108:77</entry><entry>64</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>SKA-1946</entry><entry>18</entry><entry>12</entry><entry>61</entry><entry>63</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Serebryanye Lvi</entry><entry>16</entry><entry>14</entry><entry>110:70</entry><entry>58</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>HC Riga</entry><entry>12</entry><entry>18</entry><entry>60</entry><entry>43</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Atlanty</entry><entry>11</entry><entry>21</entry><entry>105:103</entry><entry>36</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Dinamo-Raubichi</entry><entry>0</entry><entry>34</entry><entry>56</entry><entry>1</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Povolzhye Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 15
+maxCounter = 31
+maxCounter = 38
+maxCounter = 46
+maxCounter = 54
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Tolpar</entry><entry>20</entry><entry>9</entry><entry>93:86</entry><entry>70</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Stalnye Lisy</entry><entry>20</entry><entry>11</entry><entry>58</entry><entry>68</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Chaika</entry><entry>19</entry><entry>11</entry><entry>99:100</entry><entry>67</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Reaktor</entry><entry>18</entry><entry>12</entry><entry>55</entry><entry>64</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Irbis</entry><entry>17</entry><entry>13</entry><entry>104:105</entry><entry>60</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sarmaty</entry><entry>15</entry><entry>14</entry><entry>54</entry><entry>54</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Ladya</entry><entry>9</entry><entry>20</entry><entry>106:107</entry><entry>38</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Olympia</entry><entry>4</entry><entry>27</entry><entry>51</entry><entry>19</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga MHL Ural-Sibir Division</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+maxCounter = 15
+maxCounter = 31
+maxCounter = 38
+maxCounter = 46
+maxCounter = 54
+maxCounter = 62
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Omskie Yastreby</entry><entry>21</entry><entry>6</entry><entry>91:102</entry><entry>78</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Snezhnye Barsy</entry><entry>18</entry><entry>12</entry><entry>44</entry><entry>61</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Kuznetskie Medvedi</entry><entry>15</entry><entry>11</entry><entry>124:146</entry><entry>56</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Sibirskie Snaipery</entry><entry>14</entry><entry>11</entry><entry>38</entry><entry>58</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Mamonty Yugry</entry><entry>13</entry><entry>14</entry><entry>67:175</entry><entry>55</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Avto</entry><entry>13</entry><entry>15</entry><entry>19</entry><entry>51</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Belye Medvedi</entry><entry>12</entry><entry>16</entry><entry>70:159</entry><entry>44</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>MHL</entry><entry>Russland</entry><entry>Tyumensky Legion</entry><entry>4</entry><entry>30</entry><entry>15</entry><entry>15</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section></article>

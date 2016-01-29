@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Extraliga" default="HTML5">
+	<property name="docbook.xml.filename" value="tableExtraliga" />
+	<property name="docbook.xml.language" value="en" />
+		
+	<import file="${net.sourceforge.dep4e.resources}/ant/docbook_5-0.xml" />
+	
+</project>
