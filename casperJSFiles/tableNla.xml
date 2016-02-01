@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xml:lang="en" xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink">
+<info>
+<title>DocBook</title>
+</info>
+<section>
+<table>
+<title>Teams Table Per League</title>
+<tgroup cols="9">
+<thead>
+<row> Liga NLA Team</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Zürich</entry><entry>25</entry><entry>11</entry><entry>145:103</entry><entry>84</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Zug</entry><entry>20</entry><entry>10</entry><entry>84</entry><entry>75</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Servette</entry><entry>21</entry><entry>13</entry><entry>136:106</entry><entry>75</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Davos</entry><entry>19</entry><entry>13</entry><entry>75</entry><entry>71</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Lugano</entry><entry>19</entry><entry>14</entry><entry>135:114</entry><entry>71</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Fribourg</entry><entry>18</entry><entry>18</entry><entry>75</entry><entry>63</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Lausanne</entry><entry>15</entry><entry>20</entry><entry>136:111</entry><entry>58</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Ambri-Piotta</entry><entry>16</entry><entry>19</entry><entry>71</entry><entry>57</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Bern</entry><entry>13</entry><entry>17</entry><entry>131:120</entry><entry>56</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Kloten</entry><entry>15</entry><entry>22</entry><entry>71</entry><entry>53</entry>
+</row>
+<row>
+<entry>11</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Langnau</entry><entry>12</entry><entry>21</entry><entry>126:136</entry><entry>49</entry>
+</row>
+<row>
+<entry>12</entry><entry>2015/2016</entry><entry>NLA</entry><entry>Schweiz</entry><entry>Biel</entry><entry>9</entry><entry>24</entry><entry>63</entry><entry>41</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga NLB Team</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Langenthal</entry><entry>25</entry><entry>9</entry><entry>142:97</entry><entry>82</entry>
+</row>
+<row>
+<entry>2</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Rapperswil</entry><entry>22</entry><entry>9</entry><entry>82</entry><entry>80</entry>
+</row>
+<row>
+<entry>3</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Olten</entry><entry>20</entry><entry>7</entry><entry>141:95</entry><entry>77</entry>
+</row>
+<row>
+<entry>4</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Chaux-de-Fonds</entry><entry>20</entry><entry>12</entry><entry>80</entry><entry>72</entry>
+</row>
+<row>
+<entry>5</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Ajoie</entry><entry>20</entry><entry>16</entry><entry>152:108</entry><entry>65</entry>
+</row>
+<row>
+<entry>6</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Visp</entry><entry>16</entry><entry>15</entry><entry>77</entry><entry>59</entry>
+</row>
+<row>
+<entry>7</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Red Ice</entry><entry>13</entry><entry>19</entry><entry>134:107</entry><entry>49</entry>
+</row>
+<row>
+<entry>8</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Thurgau</entry><entry>12</entry><entry>22</entry><entry>72</entry><entry>44</entry>
+</row>
+<row>
+<entry>9</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Lions</entry><entry>9</entry><entry>26</entry><entry>142:113</entry><entry>33</entry>
+</row>
+<row>
+<entry>10</entry><entry>2015/2016</entry><entry>NLB</entry><entry>Schweiz</entry><entry>Winterthur</entry><entry>6</entry><entry>28</entry><entry>65</entry><entry>24</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section></article>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xml:lang="en" xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xl="http://www.w3.org/1999/xlink">
+<info>
+<title>DocBook</title>
+</info>
+<section>
+<table>
+<title>Teams Table Per League</title>
+<tgroup cols="9">
+<thead>
+<row> Liga EBEL Team</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Salzburg</entry><entry>26</entry><entry>10</entry><entry>168:112</entry><entry>91</entry>
+</row>
+<row>
+<entry>2</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Linz</entry><entry>23</entry><entry>11</entry><entry>91</entry><entry>85</entry>
+</row>
+<row>
+<entry>3</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Znojmo</entry><entry>22</entry><entry>15</entry><entry>137:107</entry><entry>77</entry>
+</row>
+<row>
+<entry>4</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Vienna</entry><entry>20</entry><entry>16</entry><entry>85</entry><entry>74</entry>
+</row>
+<row>
+<entry>5</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Bolzano</entry><entry>20</entry><entry>15</entry><entry>157:116</entry><entry>73</entry>
+</row>
+<row>
+<entry>6</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Dornbirn</entry><entry>21</entry><entry>15</entry><entry>77</entry><entry>73</entry>
+</row>
+<row>
+<entry>7</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Villach</entry><entry>21</entry><entry>16</entry><entry>125:102</entry><entry>72</entry>
+</row>
+<row>
+<entry>8</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Klagenfurt</entry><entry>18</entry><entry>16</entry><entry>74</entry><entry>68</entry>
+</row>
+<row>
+<entry>9</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Fehervar AV19</entry><entry>14</entry><entry>20</entry><entry>120:111</entry><entry>58</entry>
+</row>
+<row>
+<entry>10</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Graz</entry><entry>14</entry><entry>22</entry><entry>73</entry><entry>54</entry>
+</row>
+<row>
+<entry>11</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>Innsbruck</entry><entry>11</entry><entry>26</entry><entry>126:108</entry><entry>42</entry>
+</row>
+<row>
+<entry>12</entry><entry>Liga</entry><entry>EBEL</entry><entry>Österreich</entry><entry>O. Ljubljana</entry><entry>4</entry><entry>32</entry><entry>73</entry><entry>25</entry>
+</row>
+</tbody>
+</tgroup>
+<tgroup cols="9">
+<thead>
+<row> Liga Inter-National Team</row>
+<row>
+<entry>Plazierung</entry><entry>Saison</entry><entry>Liga</entry><entry>Land</entry><entry>Team</entry><entry>Siege</entry><entry>Niederlagen</entry><entry>Tore</entry><entry>Punkte</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>1</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Feldkirch</entry><entry>22</entry><entry>3</entry><entry>136:53</entry><entry>70</entry>
+</row>
+<row>
+<entry>2</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Lustenau</entry><entry>21</entry><entry>4</entry><entry>70</entry><entry>69</entry>
+</row>
+<row>
+<entry>3</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Jesenice</entry><entry>16</entry><entry>7</entry><entry>114:67</entry><entry>53</entry>
+</row>
+<row>
+<entry>4</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Bregenzerwald</entry><entry>14</entry><entry>9</entry><entry>69</entry><entry>48</entry>
+</row>
+<row>
+<entry>5</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Zell am See</entry><entry>11</entry><entry>11</entry><entry>98:61</entry><entry>39</entry>
+</row>
+<row>
+<entry>6</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Kitzbuhel</entry><entry>10</entry><entry>14</entry><entry>53</entry><entry>35</entry>
+</row>
+<row>
+<entry>7</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Celje</entry><entry>8</entry><entry>16</entry><entry>99:93</entry><entry>28</entry>
+</row>
+<row>
+<entry>8</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Kapfenberg</entry><entry>3</entry><entry>21</entry><entry>48</entry><entry>16</entry>
+</row>
+<row>
+<entry>9</entry><entry>League</entry><entry>Inter-National</entry><entry>Österreich</entry><entry>Slavija</entry><entry>2</entry><entry>22</entry><entry>76:80</entry><entry>11</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section></article>
