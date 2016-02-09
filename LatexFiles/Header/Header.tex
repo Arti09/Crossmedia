@@ -1,0 +1,98 @@
+% allgemeine Formatangaben
+\documentclass[
+ a4paper, 										% Papierformat
+ 12pt,											% Schriftgröße
+ ngerman, 										% für Umlaute, Silbentrennung etc.
+ titlepage,										% es wird eine Titelseite verwendet
+ bibliography=totoc,							% Literaturverzeichnis im Inhaltsverzeichnis aufführen
+ listof=totoc,									% Verzeichnisse im Inhaltsverzeichnis aufführen
+ oneside, 										% einseitiges Dokument
+ captions=nooneline,							% einzeilige Gleitobjekttitel ohne Sonderbehandlung wie mehrzeilige Gleitobjekttitel behandeln
+ numbers=noenddot,								% Überschriften-Nummerierung ohne Punkt am Ende
+ parskip=half									% zwischen Absätzen wird eine halbe Zeile eingefügt
+ ]{scrbook}
+
+\input{Header/Pakete}							% einbinden der verwendeten Latex-Pakete
+\input{Header/Metadaten} 						% einbinden von persönlichen Daten
+
+\onehalfspacing 								% 1,5-facher Zeilenabstand
+
+\definecolor{InterneLinkfarbe}{rgb}{0.1,0.1,0.3} 	% Farbliche Absetzung von externen Links
+\definecolor{ExterneLinkfarbe}{rgb}{0.1,0.1,0.7}	% Farbliche Absetzung von internen Links
+
+% Einstellungen für Fußnoten:
+\captionsetup{font=footnotesize,labelfont=sc,singlelinecheck=true,margin={5mm,5mm}}
+
+% Stil der Quellenangabe
+\bibliographystyle{plain}
+%\bibliographystyle{alphadin}
+%\bibliographystyle{apalike}
+
+
+
+%Ausschluss von Schusterjungen
+\clubpenalty = 10000
+%Ausschluss von Hurenkindern
+\widowpenalty = 10000
+
+% Befehle, die Umlaute ausgeben, führen zu Fehlern, wenn sie hyperref als Optionen übergeben werden
+\hypersetup{
+    pdftitle={\titel \untertitel},
+    pdfauthor={\autor},
+    pdfcreator={\autor},
+    pdfsubject={\titel \untertitel},
+    pdfkeywords={\titel \untertitel},
+}
+
+% Listings
+\lstloadlanguages{Java,HTML}
+
+% Bessere dickengleiche Schrift.
+\renewcommand{\ttdefault}{pcr}
+
+% Farben
+\definecolor{colorcomment}{rgb}{0.1,0.1,0.62}
+
+% List
+\lstset{
+	frame=tb,
+	framesep=5pt,
+	basicstyle=\footnotesize\ttfamily,
+	showstringspaces=false,
+	keywordstyle=\ttfamily\bfseries\color{CadetBlue},
+	identifierstyle=\ttfamily,
+	stringstyle=\ttfamily\color{OliveGreen},
+	commentstyle=\color{colorcomment},
+	rulecolor=\color{Gray},
+	xleftmargin=5pt,
+	xrightmargin=5pt,
+	aboveskip=\bigskipamount,
+	belowskip=\bigskipamount,
+	tabsize=2,
+	numbers=left,                    
+	numbersep=5pt,                   
+	numberstyle=\footnotesize\color{gray}, 	
+	escapeinside={@}{@},          
+	% caption=\lstname  
+}
+
+% Listings, die nicht \"uber mehrere Seiten gehen
+\newcommand{\code}[2][]{
+	\begin{minipage}[t]{\textwidth}
+		\lstinputlisting[#1]{#2} 
+	\end{minipage}
+}
+
+%Den Punkt am Ende jeder Beschreibung deaktivieren
+\renewcommand*{\glspostdescription}{}
+%Bild-Caption leer lassen
+\addto\captionsngerman{\renewcommand{\figurename}{Bild}}
+
+\renewcommand*{\partheadendvskip}{}
+
+
+%Glossar-Befehle anschalten
+\makeglossaries
+\glsenablehyper
+\input{Header/Abkuerzungen}
+\input{Header/Glossar}

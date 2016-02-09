@@ -1,0 +1,91 @@
+% Anpassung an Landessprache
+\usepackage[ngerman]{babel}
+ 
+% Verwenden von Sonderzeichen und Silbentrennung
+\usepackage[utf8]{inputenc}	% Verwendung des Unicode
+\usepackage[T1]{fontenc}											%
+\usepackage{textcomp} 											% Euro-Zeichen und andere
+\usepackage[babel,german=quotes]{csquotes}							% Anf\"uhrungszeichen
+\RequirePackage[ngerman=ngerman-x-latest]{hyphsubst} 				% erweiterte Silbentrennung
+
+% Befehle aus AMSTeX f\"ur mathematische Symbole z.B. \boldsymbol \mathbb
+\usepackage{amsmath,amsfonts}
+
+% Test
+\usepackage{etex}
+\usepackage[justification=centering]{caption}
+\usepackage{hyperref}
+
+% Zeilenabstände und Seitenränder 
+\usepackage{setspace}
+\usepackage{geometry}
+
+% Einbinden von JPG-Grafiken
+\usepackage{graphicx}
+
+% zum Umflie�{\ss}en von Bildern
+% Verwendung unter http://de.wikibooks.org/wiki/LaTeX-Kompendium:_Baukastensystem#textumflossene_Bilder
+\usepackage{floatflt}
+\usepackage{float}
+
+% Verwendung von vordefinierten Farbnamen zur Colorierung
+% Palette und Verwendung unter http://kitt.cl.uzh.ch/kitt/CLinZ.CH/src/Kurse/archiv/LaTeX-Kurs-Farben.pdf
+\usepackage[usenames,dvipsnames]{color} 
+
+% Tabellen
+\usepackage{array}
+\usepackage{longtable}
+
+% einfache Grafiken im Code
+% Einführung unter http://www.math.uni-rostock.de/~dittmer/bsp/pstricks-bsp.pdf
+\usepackage{pstricks}
+
+
+
+% Quellcodeansichten
+\usepackage{verbatim}
+\usepackage{moreverb} 											% für erweiterte Optionen der verbatim Umgebung
+% Befehle und Beispiele unter http://www.ctex.org/documents/packages/verbatim/moreverb.pdf
+\usepackage{listings} 											% für angepasste Quellcodeansichten siehe
+% Kurzeinführung unter http://blog.robert-kummer.de/2006/04/latex-quellcode-listing.html
+
+% Glossar und Abbildungsverzeichnis
+\usepackage[
+nonumberlist,		% keine Seitenzahlen anzeigen
+acronym,			% ein Abkürzungsverzeichnis erstellen
+toc					% Einträge im Inhaltsverzeichnis
+]					% im Inhaltsverzeichnis auf section-Ebene erscheinen
+{glossaries}
+
+% verlinktes und Farblich angepasstes Inhaltsverzeichnis
+% \usepackage[
+% pdftex,
+% colorlinks=true,
+% linkcolor=InterneLinkfarbe,
+% urlcolor=ExterneLinkfarbe,
+% citecolor=InterneLinkfarbe
+% ]{hyperref}
+% \usepackage[all]{hypcap}
+
+% URL verlinken, lange URLs umbrechen
+\usepackage{url}
+
+% sorgt dafür, dass Leerzeichen hinter parameterlosen Makros nicht als Makroendezeichen interpretiert werden
+\usepackage{xspace}
+
+% Beschriftungen f\"ur Abbildungen und Tabellen
+\usepackage{caption}
+
+% Entwicklerwarnmeldungen entfernen
+\usepackage{scrhack}
+
+% Tabelle mit geeigneter Breite
+\usepackage{tabularx}
+
+
+\usepackage{wrapfig}
+% Alternative zu bibtex (unterstützt Webseitenzitate)
+%\usepackage{biblatex}
+
+% Erweitrung zu bibtex (unterstützt weitere Elemente)
+%\usepackage[authoryear]{natbib}
